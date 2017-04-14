@@ -5,6 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Created by yangyu on 16/11/17.
+ * dddddddd
  */
 public class Consumer {
     public static void main(String[] args) throws Exception {
